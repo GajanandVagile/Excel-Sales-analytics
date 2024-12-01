@@ -2,8 +2,8 @@
 ## Sales Report:
 
 - **Project Objectives:**
-  1. Create a _[Customer Performance Report](https://github.com/)_.
-  2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/)_.
+  1. Create a _[Customer Performance Report](https://github.com/GajanandVagile/Excel-Sales-analytics/blob/main/customer%20performance.pdf)_.
+  2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/GajanandVagile/Excel-Sales-analytics/blob/main/target%20performance%20vs%20market%20parformance.pdf)_.
 
 - **Purpose of Sales Analytics:**  
   Empower businesses to monitor and evaluate their sales activities and performance.
@@ -22,8 +22,8 @@
 ## Finance Report:
 
 - **Project Objectives:**
-  1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/)_ and _[Months](https://github.com)_.
-  2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/)_.
+  1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/GajanandVagile/Excel-Sales-analytics/blob/main/p%20and%20L%20by%20fiscal%20year.pdf)_ and _[Months](https://github.com/GajanandVagile/Excel-Sales-analytics/blob/main/p%20and%20L%20by%20month.pdf)_.
+  
 
 - **Purpose of Financial Analytics:**  
   Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
@@ -41,8 +41,8 @@
 ## Divisional Sales Report:
 
 - **Project Objectives:**  
-  1. Develop a _[Divisional Sales Report](#)_ to analyze sales performance by division.  
-  2. Generate a _[Top 10 Products Report](#)_ based on sales volume and revenue contribution.
+  1. Develop a _[Divisional Sales Report](https://github.com/GajanandVagile/Excel-Sales-analytics/blob/main/divisional%20sales%20report.pdf)_ to analyze sales performance by division.  
+  2. Generate a _[Top 10 Products Report](https://github.com/GajanandVagile/Excel-Sales-analytics/blob/main/top%2010%20products%20report.pdf)_ based on sales volume and revenue contribution.
 
 - **Purpose of Divisional Sales Analytics:**  
   Help businesses understand regional or divisional performance and pinpoint areas of strength and opportunity.
